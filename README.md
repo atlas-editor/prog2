@@ -43,4 +43,8 @@
 
 * **praktická časť:** Opakovanie základov Python-u: základné typy(`int`, `string`, `list`), práca s nimi; `for` cykly, `while` cykly, `if-else` konštrukty, typ `dict`, funkcie; triedy. Pozri kapitoly 1. až 5. a 9. v [[Py]](https://docs.python.org/3/tutorial/index.html). Alebo stručnejšie v kapitolách 1. až 4. a 7. v [[P]](https://diveintopython3.net/index.html); pozri taktiež súbor [`Zamestnanec.py`](01/Zamestnanec.py), tento príklad triedy sme si uvádzali na cvičení, ďalšie príklady tried sú: [`Laptop.py`](01/Laptop.py) alebo [`Polynomial.py`](01/Polynomial.py).
 
-* **teoretická časť:** Časová zložitosť programov a ich vyhodnotenie a porovnávanie. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/); v súbore [`Complexity.py`](01/Complexity.py) nájdete sylabus cvičenia, ale v sekciách 2.2 až 2.4 nájdete to isté, ale lepšie a podrobnejšie popísané
+* **teoretická časť:** Časová zložitosť programov a ich vyhodnotenie a porovnávanie. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/); v súbore [`Complexity.py`](01/Complexity.py) nájdete sylabus cvičenia, ale v sekciách 2.2 až 2.4 nájdete to isté, ale lepšie a podrobnejšie popísané.
+
+## 22.2. - 28.2.
+
+TBD

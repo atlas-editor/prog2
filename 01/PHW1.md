@@ -32,7 +32,7 @@ _Sample Output_
 
 _Explanation_
 
-The given list is $[2,3,6,6,5]$. The maximum score is $6$, second maximum is $5$ and the third highest score is $3$. Hence, we print $5$ as the output.
+The given list is $[2,3,6,6,5]$. The maximum score is $6$, second maximum is $5$ and the third highest score is $3$. Hence, we print $3$ as the output.
 
 ---
 

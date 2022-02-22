@@ -48,6 +48,20 @@
 
 * **teoretická časť:** Časová zložitosť programov a ich vyhodnotenie a porovnávanie. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/); v súbore [`Complexity.py`](01/Complexity.py) nájdete sylabus cvičenia, ale v sekciách 2.2 až 2.4 nájdete to isté, ale lepšie a podrobnejšie popísané.
 
+---
+
 ## 22.2. - 28.2.
+
+* **praktická časť:** Pokračovanie úvodu do tried v Python (magické metódy, podtriedy, ...). Pozri kapitolu 9. v [[Py]](https://docs.python.org/3/tutorial/index.html) ďalej kapitolu 7. v [[P]](https://diveintopython3.net/index.html) a/alebo prednášku z 1.12. od [Martina Mareša](http://mj.ucw.cz/vyuka/2021/p1m/), pozri taktiež súbory z minula: [`Zamestnanec.py`](01/Zamestnanec.py), [`Laptop.py`](01/Laptop.py) a [`Polynomial.py`](01/Polynomial.py); súbor na ktorom sme pracovali tento týždeň, je: [`Polynom.py`](02/Polynom.py)
+
+    * zadanie druhej praktickej domácej úlohy je v priečinku `02`: [`PHW2.md`](02/PHW2.md) a taktiež v ReCodEx-e. Dealine: `1.3.2022 9:00`
+
+* **teoretická časť:** $O$-notácia, časová zložitosť programov a ich vyhodnotenie a porovnávanie, použitie pojmu limity pri porovnaní časovej zložitosti. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/)
+
+    * zadanie prvej teoretickej domácej úlohy je v priečinku `02`: [`THW1.md`](02/THW1.md) a taktiež v ReCodEx-e. Úlohy mi môžete priniesť aj na najbližie cvičenie alebo na cvičenie o dva týždne alebo aj poslať mailom. Dealine: `8.3.2022 9:00`
+
+---
+
+## 1.3. - 7.3.
 
 TBD

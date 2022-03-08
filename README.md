@@ -64,4 +64,26 @@
 
 ## 1.3. - 7.3.
 
-TBD
+* **praktická časť:** Precvičovanie niektorých významných algoritmov: Eratostenovo sito, Hornerovo schéma, binárne vyhľadávanie. Zdroje nájdete na [stránke doc. Töpfera](https://ksvi.mff.cuni.cz/~topfer/)
+
+    * zadanie tretej praktickej domácej úlohy je v priečinku `03`: [`PHW3.md`](03/PHW3.md) a taktiež v ReCodEx-e. Dealine: `8.3.2022 9:00`
+
+* **teoretická časť:** Návrh algoritmov na problémy typu: zisti, či postupnosť obsahuje dané číslo $k$; rozhodni, či postupnosť je monotónna; urči počet čísel bez opakovania v postupnosti; nájdi súvislý úsek v potupnosti s maximálnym súčtom. Pozri sekciu 1.1 v [[MV]](http://pruvodce.ucw.cz/)
+
+---
+
+## 8.3. - 14.3.
+
+* **praktická časť:** Základy používania knižnice `numpy`. Návod na inštaláciu môžete nájsť [tu, v časti "6. CVIČENÍ"](https://ksvi.mff.cuni.cz/~peskova/index.php?p=vyuka_ls#programovani). Pozri taktiež [slidy](http://mj.ucw.cz/vyuka/2021/p2m/02-numpy.pdf) od Martina Mareša, resp. [videozáznam](https://kam.mff.cuni.cz/~mares/video/ls2021/p2m/02-numpy.mp4) z jeho cvičenia z roku 2021; dôležitý zdroj je taktiež [oficiálna dokumentácia](https://numpy.org/devdocs/user/) `numpy`; na cvičenie som veľa čerpal aj zo stránky [Real Python](https://realpython.com/numpy-tutorial/).
+
+    * zadanie štvrtej praktickej domácej úlohy je tu: [`PHW4.md`](04/PHW4.md) a taktiež v ReCodEx-e. Dealine: `15.3.2022 9:00`
+
+* **teoretická časť:** Precvičovanie triedacich algoritmov: Selection sort, Insertion sort, Shellsort, Bubble sort, Merge sort. Nájdenie všetkých výskytov daného čísla $k$ v usporiadanom poli pomocou binárneho hľadania. Video o "triedení tancom" nájdete [tu](https://www.youtube.com/watch?v=lyZQPjUT5B4) a na ich kanály nájdete aj implementovanie ďalších triediacich algoritmov do tanca.
+
+    * zadanie druhej teoretickej domácej úlohy je tu: [`THW2.md`](04/THW2.md) a taktiež v ReCodEx-e. Úlohy mi môžete priniesť alebo aj poslať mailom. Dealine: `22.3.2022 9:00`
+
+---
+
+## 15.3. - 21.3.
+
+TBA

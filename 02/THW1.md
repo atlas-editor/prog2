@@ -52,11 +52,11 @@ def f(n):
 **1.7.** (1 point) What is the time complexity of the following function:
 ```
 def g(n):
-    for i in range(n):
+    for i in range(1,n):
         j = 1
         while j < n:
             print('ZGVjb2RpbmcK')
-        j += i
+            j += i
 ```
 
 ---
@@ -64,7 +64,7 @@ def g(n):
 **1.8.** (1 point) What is the time complexity of the following function:
 ```
 def h(n):
-    i = 0
+    i = 1
     while i < n:
         j = n
         while j > 0:

@@ -88,7 +88,7 @@
 
 * **praktická časť:** Základy typovania v Python, vývojové prostredie Visual Studio Code, debugging a pokračovanie úvodu do `numpy`, modul `numpy.linalg`, základy vykresľovania grafov v `matplotlib`. K typovaniu pozri napríklad článok v [Real Python](https://realpython.com/python-type-checking/) a taktiež [slidy](http://mj.ucw.cz/vyuka/2021/p2m/03-typing.pdf) od Martina Mareša, resp. [videozáznam](https://kam.mff.cuni.cz/~mares/video/ls2021/p2m/03-typing-pycharm.mp4) z jeho cvičenia z roku 2021. Všetko potrebné čo sa týka VSCode nájdete na [oficiálnej stánke](https://code.visualstudio.com/docs/languages/python), kde je aj krátky [návod používania Python vo VSCode](https://code.visualstudio.com/docs/python/python-tutorial), okrem iného je tam aj niečo o debugging-u. Na oficiálnej [stránke `numpy`](https://numpy.org/doc/stable/reference/routines.linalg.html) nájdete info o práci s maticami v `numpy` a všeobecne veci týkajúce sa lineárnej algebry. K `matplotlib` odporúčam znovu [prednášku Martina Mareša](http://kam.mff.cuni.cz/~mares/video/ls2021/p2m/04-matplotlib.mp4)
 
-    * zadanie štvrtej praktickej domácej úlohy je tu: [`PHW5.md`](05/PHW5.md) a taktiež v ReCodEx-e. Dealine: `22.3.2022 9:00`
+    * zadanie piatej praktickej domácej úlohy je tu: [`PHW5.md`](05/PHW5.md) a taktiež v ReCodEx-e. Dealine: `22.3.2022 9:00`
 
 * **teoretická časť:** Precvičovanie a analýza triedacich algoritmov: Counting sort, Radix sort. Dátové štruktúry: Queue (Fronta), Stack (Zásobník), Heap (Halda). Použitie zásobníka na overenie správneho ozátvorkovania výrazu. Riešenie problému s mediánom pomocou haldy, viď [link](https://www.youtube.com/watch?v=VmogG01IjYc).
 

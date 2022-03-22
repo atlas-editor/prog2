@@ -68,6 +68,7 @@ class LinkedList:
         A method to merge two sorted linked lists together.
 
         :param other: the other linked lists to be merged with self
+        :return: return a new linked lists whose head references the first node in the merged list
         """
         pass
 

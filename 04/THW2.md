@@ -2,7 +2,7 @@
 
 **2.1.** (5 points) Consider the following program, where `A` is an array of integers:
 
-```
+```python
 def fsort(A):
     for i in range(len(A)-1):
         for j in range(i, len(A)-1):

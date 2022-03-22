@@ -36,6 +36,7 @@
 * Pavel Töpfer -  Algoritmy a programovací techniky
 * Zed A. Shaw - Learn Python 3 the Hard Way
 * Zed A. Shaw - Learn More Python 3 the Hard Way
+* [Steven S. Skiena - The Algorithm Design Manual](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/The%20Algorithm%20Design%20Manual%20%282nd%20ed.%29%20%5bSkiena%202008-07-26%5d.pdf)
 
 ---
 
@@ -95,5 +96,17 @@
 ---
 
 ## 22.3. - 28.3.
+
+* **praktická časť:** Práca so spájanými zoznamami, viď. súbor [linked_list.py](06/linked_list.py).
+
+    * zadanie šiestej praktickej domácej úlohy je tu: [`PHW6.md`](06/PHW6.md) a taktiež v ReCodEx-e. Dealine: `29.3.2022 9:00`
+
+* **teoretická časť:** Práca s haldou (Heap), jej vytváranie, Heapsort. Spájané zoznamy (Linked list) a práca s nimi: pridanie prvku na začiatok/koniec, pridanie prvku na daný index, odobratie prvku, otočenie zoznamu. Ako referencie si môžete pozrieť sekciu 4.2 v knihe Mareša a/alebo sekcie 3.1 a 4.3 v knihe: The Algorithm Design Manual, viď. referencie.
+
+    * zadanie tretej teoretickej domácej úlohy je tu: [`THW3.md`](06/THW3.md) a taktiež v ReCodEx-e. Dealine: `5.4.2022 9:00`
+
+---
+
+## 29.3. - 4.4.
 
 TBD

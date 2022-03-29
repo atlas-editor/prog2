@@ -18,6 +18,14 @@
 
 **Vypracovanie domácich úloh:** Kooperácia pri riešení domácich úloh je vítana, avšak očakáva sa, že svoje riešenia si píšete individuálne. Teda priame prepisovanie je zakázané a mali by ste pochopiť riešenie úlohy dostatočne, aby ste si vedeli napisať vlastné riešenie.
 
+**Zápočtový program:** Na úspešné zvládnutie cvičenia potrebujete vypracovať takzvaný "zápočtový program". Štandardne ide o netriviálny program (aplikáciu, knižnicu, ...) o rozsahu niekoľko stoviek radkov kódu ku ktorému potrebujete okrem samotného programu napísať uživateľskú dokumentáciu a programátorskú dokumentáciu. Súčasťou je aj "obhajoba" vašej práce, kde mi v krátkosti predvediete ako vaša aplikácia funguje (na termíne sa dohodneme individuálne). Postup pre vypracovanie programu:
+
+1. vybrať téma a poslať krátky abstrakt mne na schválenie do **30.4.2022**
+2. program aj s dokumentáciami poslať najneskôr do **31.8.2022**
+3. v prípade nedostatkov vám dám program prepracovať
+
+Ďalšie [info o zápočtovom programe nájdete na stránkach Mareša](http://mj.ucw.cz/vyuka/2021/p2m/zapoctaky.html), kde taktiež nájdete aj mnohé [námety](http://mj.ucw.cz/vyuka/zap/). K dokumentácií je vám k dispozícií pekne napísaný [text od Kryla](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm).
+
 **TeX:** Ak by ste mali záujem vypracovať svoje riešenia k teoretickým domácim úlohám v systéme [$`\TeX`$](https://en.wikipedia.org/wiki/TeX), tak vam pomôže [táto stránka](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) a môžete využiť [túto šablónu](https://www.overleaf.com/read/pcztzvcjycbj) na domáce úlohy.
 
 ---
@@ -108,5 +116,17 @@
 ---
 
 ## 29.3. - 4.4.
+
+* **praktická časť:** Práca s obojsmernými spájanými zoznamami a rekurzívnymi metódami na nich, viď. súbor [dll.py](07/dll.py).
+
+    * zadanie siedmej praktickej domácej úlohy je tu: [`PHW7.md`](07/PHW7.md) a taktiež v ReCodEx-e. Dealine: `5.4.2022 9:00`
+
+* **teoretická časť:** Obojsmerné spájané zoznamy (Doubly linked list) a práca s nimi: pridanie prvku na začiatok/koniec, pridanie prvku na daný index, odobratie prvku. Rekurzia (nie len v programovaní); Fibonacciho postupnosť, Kochova krivka, strom volaní, call stack, stack frame. Ako referenciu si môžete pozrieť tento [krátky text](https://www.cs.cornell.edu/courses/cs4120/2016sp/lectures/lec_recursion_lists/) o rekurzií a spájaných zoznamoch.
+
+* **zápočtový program:** viď. info vyššie
+
+---
+
+## 5.4. - 11.4.
 
 TBD

@@ -1,4 +1,7 @@
-Create a class `DoublyLinkedList` which implements a doubly linked list and several methods: `appendleft`, `append`, `reverse`, `string_reverse` and `special_sum`.
+# Programming 2 &ndash; PHW7
+
+
+**7.1.** (10 points) Create a class `DoublyLinkedList` which implements a doubly linked list and several methods: `appendleft`, `append`, `reverse`, `string_reverse` and `special_sum`.
 
 Below is the structure of the class and your task is to implement the given methods as described in their docstrings.
 

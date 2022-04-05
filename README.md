@@ -129,4 +129,16 @@
 
 ## 5.4. - 11.4.
 
+* **praktická časť:** Rekurzívne generovanie postupností, rekurzívne riešenia jednoduchých algoritmov na poliach, modul `turtle`, viď. súbor [08.py](08/08.py).
+
+    * zadanie ôsmej praktickej domácej úlohy je tu: [`PHW8.md`](08/PHW8.md) a taktiež v ReCodEx-e. Dealine: `12.4.2022 9:00`
+
+* **teoretická časť:** Rekurzia, generovanie všetkých binárnych postupností, rastúcich postupností, ... Binárne vyhľadávacie stromy, ich prechod a základné operácie na nich. Ako referencie si môžete pozrieť sekciu 8.1 v knihe Mareša a/alebo sekciu 3.4 v knihe: The Algorithm Design Manual, viď. referencie.
+
+    * zadanie štvrtej teoretickej domácej úlohy je tu: [`THW4.md`](08/THW4.md) a taktiež v ReCodEx-e. Dealine: `19.4.2022 9:00`
+
+---
+
+## 12.4. - 18.4.
+
 TBD

@@ -141,4 +141,14 @@
 
 ## 12.4. - 18.4.
 
+* **praktická časť:** Rekurzívne generovanie; binárne vyhľadávacie stromy, vytvorenie stromu z popisu. viď. teoretická časť a [09.py](09/09.py). Ako referencie si môžete pozrieť sekciu 8.1 v knihe Mareša a/alebo sekciu 3.4 v knihe: The Algorithm Design Manual.
+
+    * zadanie deviatej praktickej domácej úlohy je tu: [`PHW9.md`](09/PHW9.md) a taktiež v ReCodEx-e. Dealine: `19.4.2022 9:00`
+
+* **teoretická časť:** Rekurzia, generovanie všetkých korektných uzátvorkovaní, podpostupností, rozklad čísla na všetky možné súčty.
+
+---
+
+## 19.4. - 25.4.
+
 TBD

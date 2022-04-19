@@ -151,4 +151,16 @@
 
 ## 19.4. - 25.4.
 
+* **praktická časť:** Implementácia quicksortu. Binárne stromy, vytvorenie stromu z popisu, ... viď. teoretická časť a [10.py](10/10.py).
+
+    * zadanie desiatej praktickej domácej úlohy je tu: [`PHW10.md`](10/PHW10.md) a taktiež v ReCodEx-e. Dealine: `26.4.2022 9:00`
+
+* **teoretická časť:** Quicksort. Hľadanie v binárnom strome rekurzívne aj iteratívne, výška stromu, symetria stromu. Konštruovanie stromu z popisu. Strom aritmetického výrazu a poľské značenie. Ako referencie si môžete pozrieť sekcie 8.1 a 10.7 v knihe Mareša a/alebo sekcie 3.4 a 4.6 v knihe: The Algorithm Design Manual.
+
+    * zadanie piatej teoretickej domácej úlohy je tu: [`THW5.md`](10/THW5.md) a taktiež v ReCodEx-e. Dealine: `3.5.2022 9:00`
+
+---
+
+## 26.4. - 2.5.
+
 TBD

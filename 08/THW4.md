@@ -29,4 +29,4 @@ Determine the maximal height of the call tree during the execution and  also the
 
 ---
 
-***4.4.** (2 points) Describe an algorithm which can reconstruct any binary search tree given its _preorder_ and _inorder_ traversals.
+***4.4.** (2 points) Describe an algorithm which can reconstruct any binary tree given its _preorder_ and _inorder_ traversals.

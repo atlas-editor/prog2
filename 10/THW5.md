@@ -16,7 +16,7 @@ Give an `O(n)` algorithm for evaluating such an expression, where there are `n` 
 
 ---
 
-**5.2.** (4 points) Use the partitioning idea of quicksort to give an algorithm that ﬁnds the median element of an array of `n` integers. Analyze the time complexity of your algorithm?
+**5.2.** (4 points) Use the partitioning idea of quicksort to give an algorithm that ﬁnds the median element of an array of `n` integers. Analyze the time complexity of your algorithm.
 
 ---
 

@@ -1,4 +1,4 @@
-# Programming 2 &ndash; PHW10
+# Programming 2 &ndash; PHW11
 
 **11.2.** (5 points) Using BFS one can find shortest paths from a given vertex to any other vertex.
 

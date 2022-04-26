@@ -163,11 +163,11 @@
 
 ## 26.4. - 2.5.
 
-* **praktická časť:** Implementácia základných grafových algoritmov viď. teoretická časť. Generátory v Pythone. Pozri [11.py](11/11.py), kapitolu 6 v knihe Dive Into Python 3 a taktiež grafovú knižnicu pre [NetworkX](https://networkx.org/).
+* **praktická časť:** Implementácia základných grafových algoritmov viď. teoretická časť. Generátory v Pythone. Pozri [11.py](11/11.py), kapitolu 6 v knihe Dive Into Python 3 a taktiež grafovú knižnicu [NetworkX](https://networkx.org/).
 
     * zadanie jedenástej praktickej domácej úlohy je tu: [`PHW11.md`](11/PHW11.md) a taktiež v ReCodEx-e. Dealine: `3.5.2022 9:00`
 
-* **teoretická časť:** Základy teórie grafov, prehľadávanie do šírky a do hĺbky a ich aplikácie: súvislosť grafu, bipartnitnosť, najkratšie cesty z daného vrchola. Ako referencie si môžete pozrieť kapitolu 5 v knihe Mareša a/alebo kapitolu 7 v knihe: The Algorithm Design Manual.
+* **teoretická časť:** Základy teórie grafov, prehľadávanie do šírky a do hĺbky a ich aplikácie: súvislosť grafu, bipartnitnosť, najkratšie cesty z daného vrchola. Topologické usporiadanie orientovaného grafu. Ako referencie si môžete pozrieť kapitolu 5 v knihe Mareša a/alebo kapitolu 7 v knihe: The Algorithm Design Manual.
 
 ---
 

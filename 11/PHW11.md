@@ -1,6 +1,6 @@
 # Programming 2 &ndash; PHW11
 
-**11.2.** (5 points) Using BFS one can find shortest paths from a given vertex to any other vertex.
+**11.1.** (5 points) Using BFS one can find shortest paths from a given vertex to any other vertex.
 
 Given an undirected graph `G`, your task is to implement an algorithm for finding all vertices `v` which are at distance `k` from a given source vertex.
 

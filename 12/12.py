@@ -45,13 +45,13 @@ class DFU:
 
     def kruskal_mst(self):
         result = []
-        sorted_edges = sorted(g.get_edges(), key=lambda x: x[2])
+        sorted_edges = sorted(self.graph.get_edges(), key=lambda x: x[2])
         for e in sorted_edges:
             u, v, w = e
             if self.find(u) != self.find(v):
                 self.union(u, v)
                 result.append((u, v, w))
-                if len(result) == len(g.get_vertices()) - 1:
+                if len(result) == len(self.graph.get_vertices()) - 1:
                     return result
 
 

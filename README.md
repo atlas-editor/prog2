@@ -173,4 +173,14 @@
 
 ## 3.5. - 9.5.
 
+Nájdenie najkratšej cesty v bludisku, viď. [maze.py](12/maze.py) ([vstupný súbor](12/maze.txt)); implementácia Kruskalovho algoritmu pomocou dátovej štruktúry DFU a lambdy v Pythone, viď. [12.py](12/12.py); analýza jednoduchého problému na dynamické programovanie, viď. [garden.py](12/garden.py) (len načítanie vstupu, [vstupný súbor](12/orchard.txt)). Pre viac info pozri sekciu 7.4 v knihe Mareša a sekcie 8.1 a 10.5 v knihe: The Algorithm Design Manual.
+
+* zadanie dvanástej praktickej domácej úlohy je tu: [`PHW12.md`](12/PHW12.md) a taktiež v ReCodEx-e. Dealine: `10.5.2022 9:00`
+
+* zadanie šiestej teoretickej domácej úlohy je tu: [`THW6.md`](12/THW6.md) a taktiež v ReCodEx-e. Dealine: `17.5.2022 9:00`
+
+---
+
+## 10.5. - 16.5.
+
 TBD

@@ -53,8 +53,8 @@ class Maze:
 
         raise NoPathError(f'The maze contains no path from {start} to {indicator}')
 
-    def path_from_predecessors(self, source, predecessor):
-        v = source
+    def path_from_predecessors(self, target, predecessor):
+        v = target
         path = [v]
         while predecessor[v] != None:
             path.append(predecessor[v])

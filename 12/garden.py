@@ -4,7 +4,7 @@ class Garden:
         self.orchard = self.read_input(file)
         self.orchard_dim = len(self.orchard)
         self.start = (self.orchard_dim-1, 0)
-        self.matrix_of_optimal_values = [[None]*self.orchard_dim]*self.orchard_dim
+        self.matrix_of_optimal_values = [[None]*self.orchard_dim for _ in range(self.orchard_dim)]
 
     def read_input(self, file):
         orchard = []

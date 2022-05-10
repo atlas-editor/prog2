@@ -185,7 +185,7 @@ Nájdenie najkratšej cesty v bludisku, viď. [maze.py](12/maze.py) ([vstupný s
 
 Rekurzívne generovanie; orezávanie pri riešení problému hľadania úplných podgrafov. Dynamické programovanie, problém s mincami, editačná vzdialenosť. Pre viac info pozri [13.py](13/13.py) a sekciu 12.3 v knihe Mareša a sekcie 10.2 a 10.5 v knihe: The Algorithm Design Manual.
 
-Možnosti UI pre zápopčtové programy: 
+Možnosti UI pre zápočtové programy: 
 * [argparse](https://docs.python.org/3/library/argparse.html) + [návod 1](https://docs.python.org/3/howto/argparse.html), [návod 2](https://realpython.com/command-line-interfaces-python-argparse/)
 * [cmd](https://docs.python.org/3/library/cmd.html) + [návod](https://wiki.python.org/moin/CmdModule)
 * [curses](https://docs.python.org/3/library/curses.html) + [návod 1](https://docs.python.org/3/howto/curses.html), [návod 2](https://www.devdungeon.com/content/curses-programming-python), [návod 3](https://theailearner.com/2019/03/10/snake-game-using-python-curses/)

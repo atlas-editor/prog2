@@ -26,7 +26,7 @@
 
 Ďalšie [info o zápočtovom programe nájdete na stránkach Mareša](http://mj.ucw.cz/vyuka/2021/p2m/zapoctaky.html), kde taktiež nájdete aj mnohé [námety](http://mj.ucw.cz/vyuka/zap/). K dokumentácií je vám k dispozícií pekne napísaný [text od Kryla](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm).
 
-**TeX:** Ak by ste mali záujem vypracovať svoje riešenia k teoretickým domácim úlohám v systéme [$`\TeX`$](https://en.wikipedia.org/wiki/TeX), tak vam pomôže [táto stránka](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) a môžete využiť [túto šablónu](https://www.overleaf.com/read/pcztzvcjycbj) na domáce úlohy.
+**TeX:** Ak by ste mali záujem vypracovať svoje riešenia k teoretickým domácim úlohám v systéme [$\TeX$](https://en.wikipedia.org/wiki/TeX), tak vam pomôže [táto stránka](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) a môžete využiť [túto šablónu](https://www.overleaf.com/read/pcztzvcjycbj) na domáce úlohy.
 
 ---
 
@@ -65,7 +65,7 @@
 
     * zadanie druhej praktickej domácej úlohy je v priečinku `02`: [`PHW2.md`](02/PHW2.md) a taktiež v ReCodEx-e. Dealine: `1.3.2022 9:00`
 
-* **teoretická časť:** $`O`$-notácia, časová zložitosť programov a ich vyhodnotenie a porovnávanie, použitie pojmu limity pri porovnaní časovej zložitosti. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/)
+* **teoretická časť:** $O$-notácia, časová zložitosť programov a ich vyhodnotenie a porovnávanie, použitie pojmu limity pri porovnaní časovej zložitosti. Pozri sekcie 2.2 až 2.4 v [[MV]](http://pruvodce.ucw.cz/)
 
     * zadanie prvej teoretickej domácej úlohy je v priečinku `02`: [`THW1.md`](02/THW1.md) a taktiež v ReCodEx-e. Úlohy mi môžete priniesť aj na najbližie cvičenie alebo na cvičenie o dva týždne alebo aj poslať mailom. Dealine: `8.3.2022 9:00`
 
@@ -77,7 +77,7 @@
 
     * zadanie tretej praktickej domácej úlohy je v priečinku `03`: [`PHW3.md`](03/PHW3.md) a taktiež v ReCodEx-e. Dealine: `8.3.2022 9:00`
 
-* **teoretická časť:** Návrh algoritmov na problémy typu: zisti, či postupnosť obsahuje dané číslo $`k`$; rozhodni, či postupnosť je monotónna; urči počet čísel bez opakovania v postupnosti; nájdi súvislý úsek v potupnosti s maximálnym súčtom. Pozri sekciu 1.1 v [[MV]](http://pruvodce.ucw.cz/)
+* **teoretická časť:** Návrh algoritmov na problémy typu: zisti, či postupnosť obsahuje dané číslo $k$; rozhodni, či postupnosť je monotónna; urči počet čísel bez opakovania v postupnosti; nájdi súvislý úsek v potupnosti s maximálnym súčtom. Pozri sekciu 1.1 v [[MV]](http://pruvodce.ucw.cz/)
 
 ---
 
@@ -87,7 +87,7 @@
 
     * zadanie štvrtej praktickej domácej úlohy je tu: [`PHW4.md`](04/PHW4.md) a taktiež v ReCodEx-e. Dealine: `15.3.2022 9:00`
 
-* **teoretická časť:** Precvičovanie triedacich algoritmov: Selection sort, Insertion sort, Shellsort, Bubble sort, Merge sort. Nájdenie všetkých výskytov daného čísla $`k`$ v usporiadanom poli pomocou binárneho hľadania. Video o "triedení tancom" nájdete [tu](https://www.youtube.com/watch?v=lyZQPjUT5B4) a na ich kanály nájdete aj implementovanie ďalších triediacich algoritmov do tanca.
+* **teoretická časť:** Precvičovanie triedacich algoritmov: Selection sort, Insertion sort, Shellsort, Bubble sort, Merge sort. Nájdenie všetkých výskytov daného čísla $k$ v usporiadanom poli pomocou binárneho hľadania. Video o "triedení tancom" nájdete [tu](https://www.youtube.com/watch?v=lyZQPjUT5B4) a na ich kanály nájdete aj implementovanie ďalších triediacich algoritmov do tanca.
 
     * zadanie druhej teoretickej domácej úlohy je tu: [`THW2.md`](04/THW2.md) a taktiež v ReCodEx-e. Úlohy mi môžete priniesť alebo aj poslať mailom. Dealine: `22.3.2022 9:00`
 

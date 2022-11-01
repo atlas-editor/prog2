@@ -26,7 +26,7 @@
 
 Ďalšie [info o zápočtovom programe nájdete na stránkach Mareša](http://mj.ucw.cz/vyuka/2021/p2m/zapoctaky.html), kde taktiež nájdete aj mnohé [námety](http://mj.ucw.cz/vyuka/zap/). K dokumentácií je vám k dispozícií pekne napísaný [text od Kryla](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm).
 
-**TeX:** Ak by ste mali záujem vypracovať svoje riešenia k teoretickým domácim úlohám v systéme [$\TeX$](https://en.wikipedia.org/wiki/TeX), tak vam pomôže [táto stránka](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) a môžete využiť [túto šablónu](https://www.overleaf.com/read/pcztzvcjycbj) na domáce úlohy.
+**TeX:** Ak by ste mali záujem vypracovať svoje riešenia k teoretickým domácim úlohám v systéme [TeX](https://en.wikipedia.org/wiki/TeX), tak vam pomôže [táto stránka](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) a môžete využiť [túto šablónu](https://www.overleaf.com/read/pcztzvcjycbj) na domáce úlohy.
 
 ---
 

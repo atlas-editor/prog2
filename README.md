@@ -1,4 +1,4 @@
-# Programování 2 - NMIN112
+# Programování 2 - NMIN112 (2022)
 
 **Cvičiaci:** David Uhrik
 

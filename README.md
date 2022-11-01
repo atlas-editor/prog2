@@ -1,10 +1,6 @@
-# Programování 2 - NMIN112 (2022)
+# Programování 2 - NMIN112 
 
-**Cvičiaci:** David Uhrik
-
-**Výuka:** Ut 9:00 - 10:30 + 10:40 - 12:10, N10 (IMPAKT)
-
-**E-mail:** uhrik@karlin.mff.cuni.cz
+(archív z roku 2022)
 
 ---
 
